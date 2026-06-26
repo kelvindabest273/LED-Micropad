@@ -29,6 +29,7 @@ BOM: \
 I used help from ChatGPT (before you get mad some of this code was like reading an ancient language) \
 https://files.seeedstudio.com/wiki/XIAO-RP2040/res/Seeed-Studio-XIAO-RP2040-v1.3.pdf (this one especially) \
 https://github.com/HEofOttoman/hackpadbludprintmacro/blob/main/firmware/henrywausbloodyhackbludpad/keyboard.json (and this too) \
+https://github.com/hackclub/hackpad/blob/clean/extras/orpheuspad/firmware/QMK/rules.mk \
 https://docs.qmk.fm/config_options \
 https://docs.qmk.fm/features/oled_driver \
 https://docs.qmk.fm/features/led_indicators \

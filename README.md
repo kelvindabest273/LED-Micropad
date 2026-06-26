@@ -17,16 +17,16 @@ PCB Layout:
 <img width="593" height="795" alt="PCB layout" src="https://github.com/user-attachments/assets/c57f93d8-6024-48cc-80b9-ff653e5291b1" />
 
 BOM:
-1x Seeed XIAO RP2040
+1x Seeed XIAO RP2040\
 
-3x SK6812MINI-E LEDs
+3x SK6812MINI-E LEDs\
 
-1x EC11 Rotary Encoder
+1x EC11 Rotary Encoder\
 
-1x 0.91 OLED 128x32 screen
+1x 0.91 OLED 128x32 screen\
 
-3x Cherry MX-style switches
+3x Cherry MX-style switches\
 
-1x PCB (not sure if this should be included)
+1x PCB (not sure if this should be included)\
 
-1x 3D Printed Case (not sure if this should be included)
+1x 3D Printed Case (not sure if this should be included)\

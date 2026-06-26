@@ -1,4 +1,4 @@
-#LED Micropad
+# LED Micropad
 This is a macropad that has 3 keys (Num Lock, Caps Lock, and Scroll Lock), 3 LED indicators for the aforementioned, and a 0.91 inch 128x32 OLED screen that also, you guessed it, shows the status of aforementioned keys!
 
 Render of the macropad:

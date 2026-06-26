@@ -18,9 +18,15 @@ PCB Layout:
 
 BOM:
 1x Seeed XIAO RP2040
+
 3x SK6812MINI-E LEDs
+
 1x EC11 Rotary Encoder
+
 1x 0.91 OLED 128x32 screen
+
 3x Cherry MX-style switches
+
 1x PCB (not sure if this should be included)
+
 1x 3D Printed Case (not sure if this should be included)

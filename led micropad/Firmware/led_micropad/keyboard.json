@@ -1,0 +1,48 @@
+{
+    "manufacturer": "Zaheen",
+    "keyboard_name": "led_micropad",
+    "maintainer": "kelvindabest273",
+    "bootloader": "rp2040",
+    "platform": "RP2040",
+    "diode_direction": "COL2ROW",
+    "processor": "RP2040",
+    "features": {
+        "bootmagic": true,
+        "extrakey": true,
+        "mousekey": true,
+        "nkro": true,
+        "encoder": true
+    },
+    "matrix_pins": {
+        "direct": [
+            ["GP4"],
+            ["GP2"],
+            ["GP0"]
+        ]
+    },
+    "url": "https://github.com/kelvindabest273/LED-Micropad",
+    "usb": {
+        "device_version": "1.0.0",
+        "pid": "0x0000",
+        "vid": "0xFEED"
+    },
+    "ws2812": {
+        "pin": "GP29",
+        "driver": "vendor"
+
+    },
+    "encoder": {
+        "rotary": [
+        {"pin_a": "GP27", "pin_b": "GP26"}
+        ]
+    },
+    "layouts": {
+        "LAYOUT_ortho_3x1": {
+            "layout": [
+                {"matrix": [0, 0], "x": 0, "y": 0},
+                {"matrix": [1, 0], "x": 1, "y": 0},
+                {"matrix": [2, 0], "x": 2, "y": 0}
+            ]
+        }
+    }
+}

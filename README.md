@@ -30,3 +30,5 @@ BOM:
 1x PCB (not sure if this should be included)\
 
 1x 3D Printed Case (not sure if this should be included)\
+
+# Resources that I used to help me make this:

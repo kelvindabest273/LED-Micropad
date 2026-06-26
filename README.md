@@ -23,7 +23,7 @@ BOM: \
 1x 0.91 OLED 128x32 screen \
 3x Cherry MX-style switches \
 1x PCB (not sure if this should be included) \
-1x 3D Printed Case (not sure if this should be included) \
+1x 3D Printed Case (not sure if this should be included)
 
 # Resources that I used to help me make this:
 I used help from ChatGPT (before you get mad some of this code was like reading an ancient language) \
@@ -36,4 +36,4 @@ https://docs.qmk.fm/custom_quantum_functions \
 https://docs.qmk.fm/features/rgb_matrix \
 https://docs.qmk.fm/drivers/ws2812 \
 https://docs.qmk.fm/data_driven_config \
-https://github.com/Keychron/qmk_firmware/tree/2025q3/keyboards/keychron/v3/ansi/keymaps (just look around here, tho you might not find much here) \
+https://github.com/Keychron/qmk_firmware/tree/2025q3/keyboards/keychron/v3/ansi/keymaps (just look around here, tho you might not find much here)
